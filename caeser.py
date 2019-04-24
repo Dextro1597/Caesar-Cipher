@@ -1,3 +1,4 @@
+#code by Ahad Patel
 plaintext = input('Enter the plain text:-')
 alphabets = 'abcdefghijklmnopqrstuvwxyz'
 alphabetc = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
