@@ -1,3 +1,4 @@
+#code by Ahad Patel
 plaintext = input('Enter the message:')
 key= input('Enter the bits by which we want to shift it:')
 cipher=''
